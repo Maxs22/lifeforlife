@@ -14,12 +14,11 @@ const Banner = () => {
             </h1>
 
             <p className="lg:text-2xl  ">
-              "Welcome to our online community! Discover a space of love, faith,
-              and community in our Evangelical Church. Explore inspiring
-              teachings, exciting events, and connect with people who share your
-              spiritual journey. We invite you to be part of our virtual family
-              and together grow in the grace and knowledge of our Lord Jesus
-              Christ."
+              Welcome to our online community! Discover a space of love, faith,
+              and community in our Baptist Church. Explore inspiring teachings,
+              exciting events, and connect with people who share your spiritual
+              journey. We invite you to be part of our virtual family and
+              together grow in the grace and knowledge of our Lord Jesus Christ.
             </p>
           </div>
           <div className=" flex justify-center items-center ">
